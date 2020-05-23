@@ -1,0 +1,23 @@
+{
+    "name": "Skeleton",
+    "version": "0.0.1",
+    "icon": "fab fa-battle-net",
+    "category": "undefined",
+    "author": "poulsp",
+    "maintainers": [],
+    "desc": "A skeleton i can use as a model",
+    "aliceMinVersion": "1.0.0-b1",
+    "systemRequirements": [
+        "aptExample"
+    ],
+    "pipRequirements": [
+        "pyExample"
+    ],
+    "conditions": {
+        "lang": [
+            "en"
+        ],
+        "online": true,
+        "asrArbitraryCapture": true
+    }
+}
